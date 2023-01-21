@@ -31,9 +31,15 @@ Press Enter to create your local clone.
 For more help and information achiving this, check out the following website: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
 
 ## Usage
-The walkthrough video can be accessed using the following link: 
+The walkthrough videos can be accessed using the following links: 
 
-The following image demonstrates the web application's appearance and functionality:
+https://drive.google.com/file/d/1Yct7SE_7vOCzP971IVhJsI2T3q2RVN5K/view
+
+https://drive.google.com/file/d/1mSDkXAsBYdr90dJTSQ2QMPUoPGaxa0yv/view
+
+https://drive.google.com/file/d/1AUu4A5NkY74FdcW-hTgkKQK3FsjsIVS8/view
+
+The following image demonstrates the application's appearance and functionality:
 ![The E-commerce Back End image shows usage of Get, Post, Put and Delete using Insomnia.](./assets/E-commerce_Back_End_%20screenshot.jpg)
 
 ## License
