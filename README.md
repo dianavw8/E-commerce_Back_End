@@ -33,6 +33,8 @@ For more help and information achiving this, check out the following website: ht
 ## Usage
 The walkthrough videos can be accessed using the following links: 
 
+https://drive.google.com/file/d/1FAxSJBgONmC3sgLXLisi3Vw9TbdkyRkX/view
+
 https://drive.google.com/file/d/1Yct7SE_7vOCzP971IVhJsI2T3q2RVN5K/view
 
 https://drive.google.com/file/d/1mSDkXAsBYdr90dJTSQ2QMPUoPGaxa0yv/view
